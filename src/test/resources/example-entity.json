@@ -1,0 +1,35 @@
+{
+  "identity": {
+    "originator_id": "a9a860ae-7c0f-4c12-a1cf-9fe490ee1f49",
+    "id": "campus-pack"
+  },
+  "original": {
+    "timestamp": "2015-01-02T22:17:00.371Z",
+    "uri": "http://campuspack.net",
+    "share": true,
+    "propagate": true,
+    "use": {
+      "1f2625c2-615f-11e3-bf13-d231feb1dc81": "Campus Pack",
+      "d59e3a1f-c034-4309-a282-60228089194e": [{
+        "name": "Learning Objects",
+        "email": "support@learningobjects.com"
+      }],
+      "c80df319-d5da-4f59-8ca3-c89b234c5055": [
+        "collaboration",
+        "lti"
+      ],
+      "b7856963-4078-4698-8e95-8feceafe78da": "Create a flexible learning environment with our collection of simple, social, modular, compatible apps.",
+      "a7e923e5-8da3-46d9-a3e8-aeda4ac8e6d5": false,
+      "f6820326-5ea3-4a02-840d-7f91e75eb01b": {
+        "launch_url":"https://qa-paul.campuspack.net/control/lti",
+        "versions_supported": ["v1p0"]
+      },
+      "c6e33506-b170-475b-83e9-4ecd6b6dd42a": [
+        "collaboration",
+        "lti"
+      ],
+      "d25b3012-1832-4843-9ecf-3002d3434155": "http://campuspack.net/favicon.png",
+      "0edfbd3b-aced-4f19-8460-1952ac4f1588": "my_custom_value"
+    }
+  }
+}
