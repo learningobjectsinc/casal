@@ -2,7 +2,7 @@ lazy val root = (project in file(".")).
   settings(
     organization := "com.learningobjects",
     name := "casal",
-    version := "1.0.0",
+    version := "2.0.0",
     scalaVersion := "2.11.2"
   )
 
