@@ -1,4 +1,6 @@
-# casal  
+# casal
+
+[![Build Status](https://travis-ci.org/learningobjectsinc/casal.svg?branch=master)](https://travis-ci.org/learningobjectsinc/casal)
 
 ###Makes life with CASA easier  
 
